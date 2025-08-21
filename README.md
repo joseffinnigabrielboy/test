@@ -3,6 +3,16 @@
 <img width="781" height="818" alt="Screenshot 2025-08-21 at 13 18 18" src="https://github.com/user-attachments/assets/1cc89db5-34e8-42cf-9f1b-50921e5ddbf3" />
 
 
+
+https://github.com/user-attachments/assets/40da3c8a-f222-4795-ad11-2be119a1a26c
+
+
+
+https://github.com/user-attachments/assets/97ad9476-5fef-4f04-8337-d6b556eec8e6
+
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
