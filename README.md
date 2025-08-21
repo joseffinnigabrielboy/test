@@ -1,5 +1,8 @@
 # Welcome to your Expo app 👋
 
+<img width="781" height="818" alt="Screenshot 2025-08-21 at 13 18 18" src="https://github.com/user-attachments/assets/1cc89db5-34e8-42cf-9f1b-50921e5ddbf3" />
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
